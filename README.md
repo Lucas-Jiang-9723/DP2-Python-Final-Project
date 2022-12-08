@@ -1,6 +1,9 @@
 # DP2-Python-Final-Project
+
 Members: Yuna Fang (yunafang), Yining Liang(liangyn17), Yankun Jiang (yj1084)
+
 GithubRepoName: git@github.com:Lucas-Jiang-9723/DP2-Python-Final-Project.git
+
 Research Question:
 Equity of education: Does having a higher education elevate people’s social status in the U.S.?
 Students from high income families while parents did not have a college or university degree are likely to have an increase in social status as compared to those from disadvantaged families (Braga, McKernan, Ratcliffe, & Baum, 2017). What is the equity of education? Equity of education can be viewed to mean that schools, as well as education systems, ensure the same learning opportunities for all students irrespective of their financial backgrounds. Can we say there is equity in education? Does it help in elevating an individual social status? To some extent, higher education can boost people’s social status in the U.S. However, it is vital to note that not all graduates from low-income families share the same benefits and access to the best universities in the country, which guarantee a better chance to improve one’s social status. Our research question will help understand whether the higher education institution one attends plays a positive role in elevating one’s social status. Moreover, this helps understand which other factors lead to social status apart from higher education. For example, factors such as parents' previous education level, family income and the cultural experience of the student in the family also have a significant impact on social status. We also show the mean wage for different genders under different educational attainment levels to take a glance at other potential inequalities on education outcomes.
