@@ -24,6 +24,7 @@ We built a shiny app to showcase two interactive plots - one for mean wage again
 
 
 Data results and analysis:
+
 Result 1: 
 From the first static plot(static1.png) , we can observe that the higher the university ranking, the higher the kid's salary. This indicates that a college degree can significantly improve a person's job prospects and earning potential. From the second plot of the linear fit(static2 and model fitting.png), we can observe that parents' wages are positively correlated with children's wages. This means that parents with higher incomes are likely to have higher levels of human capital, making them more capable of supporting their children to complete their education. 
 
